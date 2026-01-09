@@ -1,0 +1,12 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos de OpenVPN (no subir configs sensibles)
+openvpn/
+*.ovpn
+*.key
+*.pem
+
+# Logs
+*.log
